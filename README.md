@@ -1,2 +1,3 @@
 # Information-Retrieval
-Assignments of IR (CSE-363) course
+
+**Assignment-1** : Zipf's Law, Stemming, Lemmatization
