@@ -1,0 +1,115 @@
+The posting list of Query word 'god' is : 
+{142: {78}, 186: {81, 34, 90, 111}, 481: {43}, 561: {67, 52}, 625: {82}, 644: {144}, 911: {152}}
+Term-frequencies in individual documents are as follows : 
+doc142 : 1
+doc186 : 4
+doc481 : 1
+doc561 : 2
+doc625 : 1
+doc644 : 1
+doc911 : 1
+Document frequency is : 7
+
+
+
+The posting list of Query word 'friend' is : 
+{71: {24, 96}, 77: {92}, 142: {109}, 194: {127}, 198: {93}, 254: {80}, 443: {97}, 462: {148}, 474: {96}, 684: {168}, 706: {80}, 737: {31}, 765: {109}, 796: {175}, 988: {112}}
+Term-frequencies in individual documents are as follows : 
+doc71 : 2
+doc77 : 1
+doc142 : 1
+doc194 : 1
+doc198 : 1
+doc254 : 1
+doc443 : 1
+doc462 : 1
+doc474 : 1
+doc684 : 1
+doc706 : 1
+doc737 : 1
+doc765 : 1
+doc796 : 1
+doc988 : 1
+Document frequency is : 15
+
+
+
+The posting list of Query word 'camera' is : 
+{54: {120}, 166: {42}, 189: {39}, 298: {133}, 470: {131, 95}, 701: {72}}
+Term-frequencies in individual documents are as follows : 
+doc54 : 1
+doc166 : 1
+doc189 : 1
+doc298 : 1
+doc470 : 2
+doc701 : 1
+Document frequency is : 6
+
+
+
+The posting list of Query word 'reward' is : 
+{452: {89}, 464: {159}, 676: {98}}
+Term-frequencies in individual documents are as follows : 
+doc452 : 1
+doc464 : 1
+doc676 : 1
+Document frequency is : 3
+
+
+
+The posting list of Query word 'oesophagus' is : 
+{}
+Term-frequencies in individual documents are as follows : 
+Document frequency is : 0
+
+
+
+The posting list of Query word 'phone' is : 
+{191: {157, 151}, 246: {11}, 277: {138, 38}, 303: {26, 52}, 364: {89}, 379: {139}, 382: {52}, 401: {46}, 409: {157}, 497: {32}, 508: {115}, 532: {91}, 545: {109}, 577: {47}, 595: {45}, 597: {133}, 598: {137, 195, 117}, 614: {125, 63}, 642: {26, 107, 7}, 685: {153}, 714: {74}, 722: {99}, 756: {59}, 765: {99}, 808: {43}, 811: {88}, 830: {43}, 980: {54}, 992: {38}}
+Term-frequencies in individual documents are as follows : 
+doc191 : 2
+doc246 : 1
+doc277 : 2
+doc303 : 2
+doc364 : 1
+doc379 : 1
+doc382 : 1
+doc401 : 1
+doc409 : 1
+doc497 : 1
+doc508 : 1
+doc532 : 1
+doc545 : 1
+doc577 : 1
+doc595 : 1
+doc597 : 1
+doc598 : 3
+doc614 : 2
+doc642 : 3
+doc685 : 1
+doc714 : 1
+doc722 : 1
+doc756 : 1
+doc765 : 1
+doc808 : 1
+doc811 : 1
+doc830 : 1
+doc980 : 1
+doc992 : 1
+Document frequency is : 29
+
+
+
+The posting list of Query word 'radar' is : 
+{137: {74}, 456: {94}, 598: {114, 203, 134}, 680: {65, 108}, 716: {94}, 795: {72}}
+Term-frequencies in individual documents are as follows : 
+doc137 : 1
+doc456 : 1
+doc598 : 3
+doc680 : 2
+doc716 : 1
+doc795 : 1
+Document frequency is : 6
+
+
+
